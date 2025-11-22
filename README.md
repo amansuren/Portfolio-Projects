@@ -5,8 +5,9 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 ## 📚 Table of Contents
 - [SQL](#sql)
 - [Python](#python)
-- [Tableau](#tableau)
 - [PowerBI](#PowerBI)
+- [Tableau](#tableau)
+  
 
 # SQL
 
@@ -33,6 +34,19 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 ***
 
+
+# PowerBI
+
+| Project Link | Project Description | Dashboard Link |
+|---|---|---|
+|  |
+|  |
+
+
+***
+
+
+
 # Tableau
 
 | Project Link | Project Description | Dashboard Link |
@@ -41,11 +55,3 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 | |
 
 
-***
-
-# PowerBI
-
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
-|  |
-|  |
