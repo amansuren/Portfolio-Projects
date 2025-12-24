@@ -13,9 +13,9 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| | 
-|  |  
-|  |  
+|  | - |
+|  | - |
+ 
 
 ***
 
@@ -25,11 +25,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 |---|---|---|---|
 |  | - | 
 |  | - |   
-|  |  -|   
-|  | - |   
-|  | - |
-|  | - |
-|  | - |
+
 
 
 ***
@@ -39,8 +35,8 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-|  |
-|  |
+|  | - |
+|  | - |
 
 
 ***
@@ -51,7 +47,6 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| |
-| |
-
+|  | - |
+|  | - |
 
