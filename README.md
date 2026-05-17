@@ -3,11 +3,17 @@
 Welcome to my portfolio! Here, I document a summary of my projects in the data field.
 
 ## 📚 Table of Contents
+- [Data Analytics](#Data-Analytics)
 - [SQL](#sql)
 - [Python](#python)
 - [PowerBI](#PowerBI)
 
-  
+
+# Data Analytics
+| Project Link | Techniques Used | Tools | Project Description | 
+|---|---|---|---|
+|[Retail Customer Trend Analysis](https://github.com/amansuren/retail-customer-trends-analysis-project)|Data Wrangling & EDA, Customer Segmentation, Advanced SQL Analysis,  Power BI Dashboarding, Business Insights & Recommendations|Python(Pandas), SQL, PostgreSQL, Jupyter Notebook |Developed an end-to-end customer behaviour analytics project using SQL and Power BI to uncover purchasing patterns, customer loyalty trends, and revenue-driving insights for strategic business decision-making.|
+
 
 # SQL
 
