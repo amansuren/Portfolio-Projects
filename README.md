@@ -17,11 +17,11 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 # SQL
 
-| Project Link | Area of Analysis | Project Description | 
-|---|---|---|
-| [E-Commerce Sales Funnel Analysis](https://github.com/amansuren/E-commerce-Sales-Funnel-Analysis) | SQL (Joins, Aggregations, CTEs), Data Cleaning & Data Visualization  | This project analyzes user event data to understand customer behavior across the sales funnel, from product view to purchase. It focuses on identifying conversion rates, drop-off points, and revenue trends to generate actionable business insights. The analysis is performed using SQL and Power BI, with a structured data model designed for scalable reporting. |
-| [Restaurant Order Analysis (Case Study)](https://github.com/amansuren/restaurant-order-data-analysis-sql) | Data Exploration, Filtering & Subqueries, CTEs, Multi-table Joins | Analyzed 12,234 restaurant orders from Q1 2023 using SQL to uncover menu performance, order trends, and customer spending behavior. Identified top and bottom performing items, high-value order patterns, and cuisine-level revenue insights to support data-driven menu decisions. |
-| [Spotify Advanced SQL Analytics (ongoing)](https://github.com/amansuren/Spotify-Advanced-SQL-Analytics) | Data Modeling & ETL, Data Quality and EDA | A comprehensive SQL project focused on data modeling, ETL pipeline design, and advanced analytics. The project converts denormalized CSV data into fact and dimension tables, performs data quality checks, and applies complex SQL queries to generate meaningful business insights related to music streaming trends and user engagement. |
+| Project Link | Area of Analysis | Skills Used | Description |
+|---|---|---|---|
+| [E-Commerce Sales Funnel Analysis](https://github.com/amansuren/E-commerce-Sales-Funnel-Analysis) | Funnel Analysis, Conversion Rate Analysis, Revenue Trends | JOINs, Aggregations, CTEs, Data Visualization | Analyzes user event data to identify conversion rates, drop-off points, and revenue trends across the sales funnel - from product view to purchase. Delivered via SQL and Power BI. |
+| [Restaurant Order Analysis (Case Study)](https://github.com/amansuren/restaurant-order-data-analysis-sql) | Menu Analysis, Order Volume Analysis, Customer Behavior, Revenue Analysis | CTEs, Multi-table JOINs, Subqueries, Filtering & Aggregation  | Analyzed 12,234 restaurant orders from Q1 2023 to uncover menu performance, high-value order patterns, and cuisine-level revenue insights to support data-driven menu decisions. |
+| [Spotify Advanced SQL Analytics (ongoing)](https://github.com/amansuren/Spotify-Advanced-SQL-Analytics) | Streaming Trends & User Engagement Analysis | Schema Design,  Data Modeling & ETL, Data Quality Checks, Advanced Aggregations, CTEs  | Converts denormalized CSV data into a structured schema and applies complex queries to surface music streaming trends and user engagement insights. |
 <!-- | [Bigbasket Product SQL analysis (on going)](https://github.com/amansuren/bigbasket-SQL-product-analysis#) |---|---| -->
 ***
 
@@ -46,7 +46,5 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 
 ***
-
-
 
 
